@@ -34,7 +34,7 @@ def delete_contact():
         pass
 
 root = tk.Tk()
-root.title("Contact Information Management System")
+root.title("Ariyan Contact Information Management System")
 
 tk.Label(root, text="Name:").pack()
 entry_name = tk.Entry(root)
